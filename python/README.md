@@ -4,7 +4,7 @@ Python is a high-level, general-purpose programming language that is used for ma
 
 Python is currently the most popular programming language in the world. Beginners often choose Python as their first programming language because it is easy to learn and has a large community of developers. Many libraries also exist for Python such as [NumPy](https://numpy.org/) and [Pandas](https://pandas.pydata.org/), improving the development process.
 
-With the rise of AI and machine learning, Python has become even more popular. It is used in many projects such as [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/). The primary reason that Python is used for machine learning is because Python can make direct calls to C++ code. This allows Python to be extremely fast while still being easy to use.
+With the rise of AI and machine learning, Python has become even more popular with libraries such as [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/). The primary reason that Python is used for machine learning is that Python can make direct calls to C++ code. This allows Python to be extremely fast while still being easy to use.
 
 However, Python is also criticized a lot. It is infamous for being slow, even compared to similar languages like JavaScript. This is due to things such as the [Global Interpreter Lock](https://wiki.python.org/moin/GlobalInterpreterLock), which prevents multiple threads from running at the same time. In addition, its dynamic typing disallows it to be used in any large-scale projects.
 
