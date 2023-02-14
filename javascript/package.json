@@ -1,0 +1,11 @@
+{
+    "name": "hello-world-javascript",
+    "version": "1.0.0",
+    "description": "A hello world in JavaScript.",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ."
+    },
+    "author": "0TickPulse",
+    "license": "AGPL-3.0-or-later"
+}
