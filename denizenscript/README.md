@@ -1,6 +1,6 @@
 # Hello world in DenizenScript
 
-DenizenScript is a high-level scripting language developed by the DenizenScript team (led by McMonkey) that is used for scripting in Minecraft. Many developers prefer DenizenScript to Java due to its simplicity, ease of use, improved readability, better debugging, and more. It has a lot of bridges to other Minecraft plugins including Citizens, MythicMobs, Essentials, and more.
+DenizenScript is a high-level scripting language developed by the DenizenScript team (led by mcmonkey) that is used for scripting in Minecraft. Many developers prefer DenizenScript to Java due to its simplicity, ease of use, improved readability, better debugging, and more. It has a lot of bridges to other Minecraft plugins including Citizens, MythicMobs, Essentials, and more.
 
 ## Prerequisites
 
