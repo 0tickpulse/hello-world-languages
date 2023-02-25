@@ -27,3 +27,13 @@ I wanted the opportunity to research different languages and create a project in
 2. [Step 2]
 3. [Step 3]
 ```
+
+### Notes
+
+You should not necessarily use the minimum amount of code possible. Instead, use code that accurately reflects real-world usage of the language. Show things like variables and functions.
+
+Use the proper structure for your project. For example, the JavaScript program includes a `package.json` file and a `src` directory. The Java program includes a `pom.xml` file, a `src` directory, and a `target` directory. The Python program includes a `requirements.txt` file and a `src` directory.
+
+Use best practices. The Python program includes an `if __name__ == "__main__"` statement. Again, this is not necessary, but it is a best practice.
+
+If there's something special about a language, use it in your program. For example, I showed how C does not have a string type by using a `char` array.

@@ -5,7 +5,7 @@
     "main": "out/index.js",
     "scripts": {
         "test": "node .",
-        "build": "coffee --compile --output out/ src/"
+        "build": "npx coffee --compile --output out/ src/"
     },
     "author": "0TickPulse",
     "license": "AGPL-3.0-or-later",

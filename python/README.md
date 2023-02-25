@@ -73,3 +73,5 @@ This way, the code inside the `if` statement is only executed when the file is r
 $ python main.py
 3
 ```
+
+I had originally considered omitting the `if __name__ == "__main__"` statement because it is not necessary for a hello world program. However, it is such a common pattern in Python that I decided to include it.
