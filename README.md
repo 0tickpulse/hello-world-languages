@@ -1,6 +1,6 @@
 # Hello world in as many languages as possible
 
-This repository contains a collection of "Hello World" programs in as many languages as possible. The goal is to have a single repository that contains a "Hello World" program in as many languages as possible. This is a work in progress, and contributions are welcome.
+This repository contains a collection of "Hello World" programs in as many languages as possible. This is and will always be a work in progress, and contributions are welcome.
 
 ## Why?
 
