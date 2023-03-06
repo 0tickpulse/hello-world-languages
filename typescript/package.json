@@ -5,6 +5,7 @@
     "description": "Hello world in TypeScript.",
     "main": "out/index.js",
     "scripts": {
+        "start": "node out/index.js",
         "test": "node out/tests/test.js",
         "build": "tsc -b",
         "watch": "tsc -b -w",

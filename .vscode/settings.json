@@ -1,4 +1,7 @@
 {
     "python.analysis.typeCheckingMode": "strict",
     "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "iostream": "cpp"
+    },
 }

@@ -44,7 +44,7 @@ Fortunately, many of these issues are getting fixed through things like TypeScri
 
 ## How to run
 
-1. Run `node index.js` to run the program on the terminal.
+1. Run `node .` to run the program on the terminal.
 2. To run it on your browser, create an HTML file in the same folder with the following contents:
 
     ```html
@@ -55,7 +55,7 @@ Fortunately, many of these issues are getting fixed through things like TypeScri
             <title>Hello world</title>
         </head>
         <body>
-            <script src="index.js"></script>
+            <script src="src/index.js"></script>
         </body>
     </html>
     ```
