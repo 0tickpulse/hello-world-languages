@@ -4,8 +4,9 @@
     "description": "A hello world in CoffeeScript.",
     "main": "out/index.js",
     "scripts": {
+        "start": "node .",
         "test": "node .",
-        "build": "npx coffee --compile --output out/ src/"
+        "build": "pnpm exec coffee --compile --output out/ src/"
     },
     "author": "0TickPulse",
     "license": "AGPL-3.0-or-later",

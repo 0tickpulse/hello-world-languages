@@ -1,1 +1,4 @@
-console.log "Hello, World!"
+hello = (world) ->
+    console.log "Hello, #{world}!"
+
+hello "World"

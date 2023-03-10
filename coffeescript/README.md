@@ -1,6 +1,6 @@
 # Hello world in CoffeeScript
 
-CoffeeScript is a high-level general-purpose multi-paradigm programming language that transpiles to JavaScript. By adding syntactic sugar inspired by Ruby and Python, CoffeeScript is designed to enhance JavaScript's brevity and readability.
+CoffeeScript is a high-level general-purpose multi-paradigm programming language that transpiles to JavaScript. By adding syntactic sugar inspired by Ruby and Python, CoffeeScript is designed to enhance JavaScript's brevity and readability. It also fixes some issues with JavaScript, such as inconsistent block scoping.
 
 The popularity of CoffeeScript has declined over the years as more languages have been released that compile to JavaScript, such as Microsoft's TypeScript. However, CoffeeScript is still used in many projects, especially those that use the [Meteor](https://www.meteor.com/) framework.
 
