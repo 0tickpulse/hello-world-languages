@@ -1,6 +1,6 @@
 ###*
- * @param {string} name
- *###
+# @param {string} name
+###
 hello = (name) ->
     console.log "Hello, #{name}!"
 
