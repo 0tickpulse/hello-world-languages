@@ -6,6 +6,10 @@ While C++ was designed with systems programming in mind, it has also been used f
 
 ## Criticisms
 
+> "C++ is a horrible [object-oriented] language… And limiting your project to C means that people don’t screw things up with any idiotic “object model” crap."
+>
+> Linus Torvalds, creator of Linux
+
 The main criticism is that C++ is extremely complex and difficult to learn, with many non-orthogonal features that (in practice) restrict developers to coding with a mere subset of C++.
 
 Other criticisms include long compilation times, extremely verbose error messages, and a lack of reflection.
